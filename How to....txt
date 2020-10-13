@@ -1,0 +1,19 @@
+In "Git Bash"
+cd to project folder first (IMPORTANT)
+
+To edit the file 
+git pull
+open jupyter notebook
+go to project
+do edits
+git status (to see it is modified)
+save (see instructions)
+
+To save
+git add .
+git commit -m "version ..."
+git push
+
+
+https://fred.stlouisfed.org/
+
